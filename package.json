@@ -87,7 +87,7 @@
     "path-browserify": "1.0.1",
     "prettier": "2.7.1",
     "rollup": "2.78.0",
-    "semver": "7.3.8",
+    "semver": "7.5.2",
     "snoop": "^1.0.4",
     "tailwindcss": "3.2.0",
     "terser": "5.15.1",
